@@ -5,7 +5,11 @@ Welcome to the Movie Recommender System! This Streamlit web application suggests
 link to the website : https://movie-recommendation-system-m.streamlit.app/
 
 ## Demo 📸
-lorem ipusm
+![ezgif-7-d679b2ced0](https://github.com/pankil-soni/movie-recommendation-system/assets/116267467/a07d7bd1-1b1c-430a-913a-7af94568f844)
+![Streamlit - Google Chrome 28-01-2024 12_23_00](https://github.com/pankil-soni/movie-recommendation-system/assets/116267467/0a07a433-70f2-4edc-8e07-f35b4052b399)
+![Streamlit - Google Chrome 28-01-2024 12_22_41](https://github.com/pankil-soni/movie-recommendation-system/assets/116267467/7918af68-7cab-4528-9570-6250eb1c74b0)
+![Streamlit - Google Chrome 28-01-2024 12_23_19](https://github.com/pankil-soni/movie-recommendation-system/assets/116267467/6789e1e9-c5ad-4e86-be89-92e570f98094)
+
 
 ## Overview 📋
 
