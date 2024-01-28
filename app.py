@@ -99,7 +99,7 @@ Here's a sample of the dataset:
 
 ### TF-IDF (Term Frequency-Inverse Document Frequency)
 
-![img](tfidf.jpg "TF-IDF")
+![TF-IDF](https://i.postimg.cc/0yMPpYzh/tfidf.jpg "TF-IDF")
 
 TF-IDF is a numerical statistic that reflects the importance of a word in a document(row) relative to a collection of documents(whole corpus). It is calculated in two parts: Term Frequency (TF) and Inverse Document Frequency (IDF). 
 
@@ -140,7 +140,7 @@ Cosine similarity calculates the cosine of the angle between two vectors. If the
 - Cosine similarity is often used in text analysis to measure the similarity between document vectors, such as TF-IDF vectors.
 - It is calculated as the dot product of the two vectors divided by the product of their magnitudes.
 
-![img](cosine.jpg "Cosine Similarity")
+![Cosine](https://i.postimg.cc/jdkRwgSz/Cosine.jpg)
 
 Once we have the TF-IDF representation for each movie, we'll calculate the cosine similarity between movies' TF-IDF vectors. Cosine similarity measures the cosine of the angle between two vectors, giving a measure of similarity between them.
 
